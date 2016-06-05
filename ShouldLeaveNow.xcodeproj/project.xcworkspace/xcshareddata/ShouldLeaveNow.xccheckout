@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1777B187-BA04-4F6F-B623-1C8F0375602F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShouldLeaveNow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0FFB19F72EEB26B9DF445F6ADCD54D79470C4E82</key>
+		<string>bitbucket.org:monkeybusiness/shouldleavenow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShouldLeaveNow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0FFB19F72EEB26B9DF445F6ADCD54D79470C4E82</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:monkeybusiness/shouldleavenow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0FFB19F72EEB26B9DF445F6ADCD54D79470C4E82</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0FFB19F72EEB26B9DF445F6ADCD54D79470C4E82</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShouldLeaveNow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
